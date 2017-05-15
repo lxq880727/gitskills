@@ -1,3 +1,4 @@
 # gitskills
 Creating a new branch is quick.
-create 1212121121212.
+Creating a new branch is quick AND simple.
+create 1234567890.
